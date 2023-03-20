@@ -1,1 +1,3 @@
-# A-B-Testing
+# AB Testing
+
+Data Analytics project.
